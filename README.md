@@ -13,6 +13,7 @@ We'll keep a list of blog entries here.
 | Deadline    | Craig | Bryan | Pot |
 | ----------- | ----- | ----- | --- |
 | 2015-02-02  | [Resolutions](http://blog.boochtek.com/2015/02/02/resolutions) | [Close Enough](http://bsgbryan.me/2015/02/02/close-enough/) | $2  |
+| 2015-02-09  | [Finding Your Way](http://blog.craigbuchek.com/2015/02/finding-your-way) | | |
 
 
 ## 2014
