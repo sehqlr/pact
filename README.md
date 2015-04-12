@@ -10,12 +10,14 @@ We'll keep a list of blog entries here.
 
 ## 2015
 
-| Deadline    | Craig | Bryan | Pot |
-| ----------- | ----- | ----- | --- |
-| 2015-02-02  | [Resolutions](http://blog.boochtek.com/2015/02/02/resolutions) | [Close Enough](http://bsgbryan.me/2015/02/02/close-enough/) | $2  |
-| 2015-02-09  | [Finding Your Way](http://blog.craigbuchek.com/2015/02/finding-your-way) | (none) | |
-| 2015-02-16  | (none) | (none) | |
-| 2015-02-23  | [Hexagonal Rails Controllers](http://blog.boochtek.com/2015/02/23/hexagonal-rails-controllers) | | |
+| Deadline    | Craig | Bryan | Neem | Pot |
+| ----------- | ----- | ----- | ---- | --- |
+| 2015-02-02  | [Resolutions](http://blog.boochtek.com/2015/02/02/resolutions) | [Close Enough](http://bsgbryan.me/2015/02/02/close-enough/) | | $2  |
+| 2015-02-09  | [Finding Your Way](http://blog.craigbuchek.com/2015/02/finding-your-way) | (none) | | |
+| 2015-02-16  | (none) | (none) | | |
+| 2015-02-23  | [Hexagonal Rails Controllers](http://blog.boochtek.com/2015/02/23/hexagonal-rails-controllers) | | | |
+| 2015-04-13  | | |[It's okay to be average](http://neemserra.com/its-okay-to-be-average/)| |
+
 
 
 ## 2014
