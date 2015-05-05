@@ -19,6 +19,7 @@ We'll keep a list of blog entries here.
 | 2015-04-13  | | |[It's okay to be average](http://neemserra.com/its-okay-to-be-average/)| |
 | 2015-04-20  | | |[A talk, a ticket, and unexpected trust](http://neemserra.com/a-talk-a-ticket-and-unexpected-trust/)| |
 | 2015-04-27  | [The Power of 1%](http://blog.boochtek.com/2015/04/27/one-percent) | |[Paired programming is awesome! Paired programming sucks! ](http://neemserra.com/paired-programming-is-awesome-paired-programming-sucks/)| |
+| 2015-05-04  | [Good Enough](http://blog.boochtek.com/2015/05/04/27/good-enough) | |[]()| |
 
 
 
