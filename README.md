@@ -22,6 +22,8 @@ We'll keep a list of blog entries here.
 | 2015-05-04  | [Good Enough](http://blog.boochtek.com/2015/05/04/27/good-enough) | |[A short thought on boredom](http://neemserra.com/a-short-thought-on-boredom/)| |
 paired-programming-sucks/)| |
 | 2015-05-11  | [When Should We Do TDD?](http://blog.boochtek.com/2015/05/11/when-tdd) | |[A tribute to my grandmother](http://neemserra.com/a-tribute-to-my-grandmother/)| |
+| 2015-05-18  |  | |[Learning to swim](http://neemserra.com/learning-to-swim/)| |
+
 
 
 ## 2014
