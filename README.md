@@ -22,7 +22,7 @@ We'll keep a list of blog entries here.
 | 2015-05-04  | [Good Enough](http://blog.boochtek.com/2015/05/04/27/good-enough) | |[A short thought on boredom](http://neemserra.com/a-short-thought-on-boredom/)| |
 | 2015-05-11  | [When Should We Do TDD?](http://blog.boochtek.com/2015/05/11/when-tdd) | |[A tribute to my grandmother](http://neemserra.com/a-tribute-to-my-grandmother/)| |
 | 2015-05-18  | [From Agile To Happiness](http://blog.boochtek.com/2015/05/18/agile-to-happiness) | | [Learning to swim](http://neemserra.com/learning-to-swim/)| |
-| 2015-05-25  | | | | |
+| 2015-05-25  | | |[When good is scary](http://neemserra.com/when-good-is-scary)| |
 
 
 ## 2014
