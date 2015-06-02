@@ -23,7 +23,7 @@ We'll keep a list of blog entries here.
 | 2015-05-11  | [When Should We Do TDD?](http://blog.boochtek.com/2015/05/11/when-tdd) | |[A tribute to my grandmother](http://neemserra.com/a-tribute-to-my-grandmother/)| |
 | 2015-05-18  | [From Agile To Happiness](http://blog.boochtek.com/2015/05/18/agile-to-happiness) | | [Learning to swim](http://neemserra.com/learning-to-swim/)| |
 | 2015-05-25  | [Too Damn Loud](http://blog.craigbuchek.com/2015/05/too-loud) | |[When good is scary](http://neemserra.com/when-good-is-scary)| |
-| 2015-06-01  |  | |[Learn to apologize](http://neemserra.com/learn-to-apologize)| |
+| 2015-06-01  | [Architectural Thoughts](http://blog.boochtek.com/2015/06/01/architectural-thoughts) | |[Learn to apologize](http://neemserra.com/learn-to-apologize)| |
 | 2015-06-08  |  | |[Google I/O](http://neemserra.com/google-io)| |
 | 2015-06-15  |  | |[What makes homelessness hard](http://neemserra.com/what-makes-homelessness-hard)| |
 
