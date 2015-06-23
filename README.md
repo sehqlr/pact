@@ -26,7 +26,7 @@ We'll keep a list of blog entries here.
 | 2015-06-01  | [Architectural Thoughts](http://blog.boochtek.com/2015/06/01/architectural-thoughts) | |[Learn to apologize](http://neemserra.com/learn-to-apologize)| |
 | 2015-06-08  | [Courage](http://blog.craigbuchek.com/2015/06/courage) | |[Google I/O](http://neemserra.com/google-io)| |
 | 2015-06-15  | (personal letter) | |[What makes homelessness hard](http://neemserra.com/what-makes-homelessness-hard)| |
-| 2015-06-22  |  | |[The Dress](http://neemserra.com/the-dress)| |
+| 2015-06-22  | [Not Quite Callbacks](http://blog.boochtek.com/2015/06/22/not-quite-callbacks) | |[The Dress](http://neemserra.com/the-dress)| |
 
 
 ## 2014
