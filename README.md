@@ -27,6 +27,10 @@ We'll keep a list of blog entries here.
 | 2015-06-08  | [Courage](http://blog.craigbuchek.com/2015/06/courage) | |[Google I/O](http://neemserra.com/google-io)| |
 | 2015-06-15  | (personal letter) | |[What makes homelessness hard](http://neemserra.com/what-makes-homelessness-hard)| |
 | 2015-06-22  | [Not Quite Callbacks](http://blog.boochtek.com/2015/06/22/not-quite-callbacks) | |[The Dress](http://neemserra.com/the-dress)| |
+| 2015-06-29  | | |[Assumptions](http://neemserra.com/assumptions/)| |
+| 2015-07-06  | | |personal letters| |
+| 2015-07-13  | | |[Software Carpentry in Hawaii](http://neemserra.com/software-carpentry-in-hawaii/)| |
+| 2015-07-20  | | |[Roy Clay Sr. Web Development and Entrepreneurship](http://neemserra.com/roy-clay-sr-web-development-and-entrepreneurship/)| |
 
 
 ## 2014
