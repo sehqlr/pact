@@ -30,7 +30,7 @@ We'll keep a list of blog entries here.
 | 2015-06-29  | | |[Assumptions](http://neemserra.com/assumptions/)| |
 | 2015-07-06  | | |personal letters| |
 | 2015-07-13  | | |[Software Carpentry in Hawaii](http://neemserra.com/software-carpentry-in-hawaii/)| |
-| 2015-07-20  | | |[Roy Clay Sr. Web Development and Entrepreneurship](http://neemserra.com/roy-clay-sr-web-development-and-entrepreneurship/)| |
+| 2015-07-20  | [Resignation from SLUUG](http://www.sluug.org/pipermail/steercom/2015-July/009777.html) (username/password: discuss/freely) | |[Roy Clay Sr. Web Development and Entrepreneurship](http://neemserra.com/roy-clay-sr-web-development-and-entrepreneurship/)| |
 | 2015-08-31  | | |[What to Wear](http://neemserra.com/what-to-wear/)| |
 
 
