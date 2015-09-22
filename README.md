@@ -34,7 +34,7 @@ We'll keep a list of blog entries here.
 | 2015-08-31  | [Potential F5 Vulnerability](http://blog.boochtek.com/2015/08/31/potential-f5-vulnerability) | |[What to Wear](http://neemserra.com/what-to-wear/)| |
 | 2015-09-08  | [Website Checklist](http://blog.boochtek.com/2015/09/08/website-checklist) | |[Two Different Worlds](http://neemserra.com/two-different-worlds/) | |
 | 2015-09-14  | [This Agile Life episode 99](http://www.thisagilelife.com/99/) | |[After September 11](http://neemserra.com/after-september-11/)| |
-
+| 2015-09-21  | [I Made a Mistake](http://blog.craigbuchek.com/2015/09/mistake) | | |
 
 ## 2014
 
