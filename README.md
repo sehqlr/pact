@@ -35,6 +35,7 @@ We'll keep a list of blog entries here.
 | 2015-09-08  | [Website Checklist](http://blog.boochtek.com/2015/09/08/website-checklist) | |[Two Different Worlds](http://neemserra.com/two-different-worlds/) | |
 | 2015-09-14  | [This Agile Life episode 99](http://www.thisagilelife.com/99/) | |[After September 11](http://neemserra.com/after-september-11/)| |
 | 2015-09-21  | [I Made a Mistake](http://blog.craigbuchek.com/2015/09/mistake) | | |
+| 2015-09-28  | [The Problem With Estimates](http://blog.boochtek.com/2015/09/28/no-estimates) | | |
 
 ## 2014
 
