@@ -37,7 +37,7 @@ We'll keep a list of blog entries here.
 | 2015-09-21  | [I Made a Mistake](http://blog.craigbuchek.com/2015/09/mistake) | | [The upside of blogging](http://neemserra.com/the-upside-of-blogging/) | |
 | 2015-09-28  | [The Problem With Estimates](http://blog.boochtek.com/2015/09/28/no-estimates) | | [Strangeloop 2015](http://neemserra.com/strangeloop-2015/) | |
 | 2015-10-05  | [Losing Weight](http://blog.craigbuchek.com/2015/10/losing-weight) | | [Meeting people at conferences](http://neemserra.com/meeting-people-at-conferences/) | |
-| 2015-10-12  | [Ruby Preserves](http://tinyurl.com/ruby-preserves-stl) presentation at STL Ruby | | []() | |
+| 2015-10-12  | [Ruby Preserves](http://tinyurl.com/ruby-preserves-stl) presentation at STL Ruby | | [The nerdiest jewelry](http://neemserra.com/the-nerdiest-jewelry/) | |
 
 ## 2014
 
