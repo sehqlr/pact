@@ -34,8 +34,13 @@ We'll keep a list of blog entries here.
 | 2015-08-31  | [Potential F5 Vulnerability](http://blog.boochtek.com/2015/08/31/potential-f5-vulnerability) | |[What to Wear](http://neemserra.com/what-to-wear/)| |
 | 2015-09-08  | [Website Checklist](http://blog.boochtek.com/2015/09/08/website-checklist) | |[Two Different Worlds](http://neemserra.com/two-different-worlds/) | |
 | 2015-09-14  | [This Agile Life episode 99](http://www.thisagilelife.com/99/) | |[After September 11](http://neemserra.com/after-september-11/)| |
-| 2015-09-21  | [I Made a Mistake](http://blog.craigbuchek.com/2015/09/mistake) | | [The upside of blogging](http://neemserra.com/the-upside-of-blogging/)| |
-| 2015-09-28  | | | [Strangeloop 2015](http://neemserra.com/strangeloop-2015/)| |
+| 2015-09-21  | [I Made a Mistake](http://blog.craigbuchek.com/2015/09/mistake) | | [The upside of blogging](http://neemserra.com/the-upside-of-blogging/) | |
+| 2015-09-28  | [The Problem With Estimates](http://blog.boochtek.com/2015/09/28/no-estimates) | | [Strangeloop 2015](http://neemserra.com/strangeloop-2015/) | |
+| 2015-10-05  | [Losing Weight](http://blog.craigbuchek.com/2015/10/losing-weight) | | [Meeting people at conferences](http://neemserra.com/meeting-people-at-conferences/) | |
+| 2015-10-12  | [Ruby Preserves](http://tinyurl.com/ruby-preserves-stl) presentation at STL Ruby | | [The nerdiest jewelry](http://neemserra.com/the-nerdiest-jewelry/) | |
+| 2015-10-19  | [Relationship Goals](http://blog.craigbuchek.com/2015/10/relationship-goals) | | [The Dark Side of Conferences](http://neemserra.com/the-dark-side-of-conferences/) | |
+| 2015-11-02  | [Impromptu Retrospective](http://blog.boochtek.com/2015/11/02/impromptu-retrospective) | |    | |
+
 
 ## 2014
 
