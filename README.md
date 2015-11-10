@@ -40,6 +40,7 @@ We'll keep a list of blog entries here.
 | 2015-10-12  | [Ruby Preserves](http://tinyurl.com/ruby-preserves-stl) presentation at STL Ruby | | [The nerdiest jewelry](http://neemserra.com/the-nerdiest-jewelry/) | |
 | 2015-10-19  | [Relationship Goals](http://blog.craigbuchek.com/2015/10/relationship-goals) | | [The Dark Side of Conferences](http://neemserra.com/the-dark-side-of-conferences/) | |
 | 2015-11-02  | [Impromptu Retrospective](http://blog.boochtek.com/2015/11/02/impromptu-retrospective) | | [Teaching the elderly tech skills] (http://neemserra.com/teaching-the-elderly-tech-skills/) | |
+| 2015-11-09  | [Happiness Retrospective](http://blog.boochtek.com/2015/11/09/happiness-retrospective) | | [Follow up to: Teaching the elderly tech skills](http://neemserra.com/follow-up-to-teaching-the-elderly-tech-skills/) | |
 
 
 ## 2014
