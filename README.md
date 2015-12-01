@@ -42,6 +42,7 @@ We'll keep a list of blog entries here.
 | 2015-11-02  | [Impromptu Retrospective](http://blog.boochtek.com/2015/11/02/impromptu-retrospective) | | [Teaching the elderly tech skills] (http://neemserra.com/teaching-the-elderly-tech-skills/) | |
 | 2015-11-09  | [Happiness Retrospective](http://blog.boochtek.com/2015/11/09/happiness-retrospective) | | [Follow up to: Teaching the elderly tech skills](http://neemserra.com/follow-up-to-teaching-the-elderly-tech-skills/) | |
 | 2015-11-24  | [Show and Tell](http://blog.boochtek.com/2015/11/24/show-and-tell) | | [CTO of the United States](http://neemserra.com/the-cto-of-the-united-states/) | |
+| 2015-11-30  | [This Agile Life episode 99](http://www.thisagilelife.com/103/) | | []() | |
 
 
 ## 2014
