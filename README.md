@@ -44,6 +44,8 @@ We'll keep a list of blog entries here.
 | 2015-11-24  | [Show and Tell](http://blog.boochtek.com/2015/11/24/show-and-tell) | | [CTO of the United States](http://neemserra.com/the-cto-of-the-united-states/) | |
 | 2015-11-30  | [This Agile Life episode 99](http://www.thisagilelife.com/103/) | | []() | |
 | 2015-12-07  | [The Ultimate Optimization](http://blog.boochtek.com/2015/12/06/ultimate-optimization) | | []() | |
+| 2015-12-15  | [Encouragement](http://blog.boochtek.com/2015/12/15/encouragement) | | []() | |
+
 
 
 ## 2014
