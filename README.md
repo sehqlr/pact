@@ -8,7 +8,16 @@ There's no restriction on the topics of the blog posts. They don't even need to 
 
 We'll keep a list of blog entries here.
 
+
+## 2016
+
+| Deadline    | Craig | Neem | Pot |
+| ----------- | ----- | ---- | --- |
+| 2016-01-04  | []() | [Culturally Muslim](http://neemserra.com/culturally-muslim/) | |
+
+
 ## 2015
+
 
 | Deadline    | Craig | Bryan | Neem | Pot |
 | ----------- | ----- | ----- | ---- | --- |
@@ -42,12 +51,11 @@ We'll keep a list of blog entries here.
 | 2015-11-02  | [Impromptu Retrospective](http://blog.boochtek.com/2015/11/02/impromptu-retrospective) | | [Teaching the elderly tech skills] (http://neemserra.com/teaching-the-elderly-tech-skills/) | |
 | 2015-11-09  | [Happiness Retrospective](http://blog.boochtek.com/2015/11/09/happiness-retrospective) | | [Follow up to: Teaching the elderly tech skills](http://neemserra.com/follow-up-to-teaching-the-elderly-tech-skills/) | |
 | 2015-11-24  | [Show and Tell](http://blog.boochtek.com/2015/11/24/show-and-tell) | | [CTO of the United States](http://neemserra.com/the-cto-of-the-united-states/) | |
-| 2015-11-30  | [This Agile Life episode 99](http://www.thisagilelife.com/103/) | | [The Non-Native Guide to Navigating Devon Avenue](http://neemserra.com/non-native-guide-to-navigating-devon-avenue/) | |
+| 2015-11-30  | [This Agile Life episode 103](http://www.thisagilelife.com/103/) | | [The Non-Native Guide to Navigating Devon Avenue](http://neemserra.com/non-native-guide-to-navigating-devon-avenue/) | |
 | 2015-12-07  | [The Ultimate Optimization](http://blog.boochtek.com/2015/12/06/ultimate-optimization) | | [Year Books](http://neemserra.com/year-books/) | |
 | 2015-12-15  | [Encouragement](http://blog.boochtek.com/2015/12/15/encouragement) | | [2015 Asynchrony Performance Review](http://neemserra.com/2015-asynchrony-performance-review/) | |
 | 2015-12-22  | [Face Your Fears](http://blog.boochtek.com/2015/12/21/face-your-fears) | | [The Asthma Struggle](http://neemserra.com/the-asthma-struggle/) | |
-| 2015-12-28  | []() | | [Brown Girl <3 White Guy](http://neemserra.com/brown-girl-loves-white-guy/) | |
-| 2016-01-04  | []() | | [Culturally Muslim](http://neemserra.com/culturally-muslim/) | |
+| 2015-12-28  | [2015 Year in Review](http://blog.boochtek.com/2015/12/28/year-in-review-2015) | | [Brown Girl <3 White Guy](http://neemserra.com/brown-girl-loves-white-guy/) | |
 
 
 ## 2014
