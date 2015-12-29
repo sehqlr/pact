@@ -46,7 +46,7 @@ We'll keep a list of blog entries here.
 | 2015-12-07  | [The Ultimate Optimization](http://blog.boochtek.com/2015/12/06/ultimate-optimization) | | [Year Books](http://neemserra.com/year-books/) | |
 | 2015-12-15  | [Encouragement](http://blog.boochtek.com/2015/12/15/encouragement) | | [2015 Asynchrony Performance Review](http://neemserra.com/2015-asynchrony-performance-review/) | |
 | 2015-12-22  | [Face Your Fears](http://blog.boochtek.com/2015/12/21/face-your-fears) | | [The Asthma Struggle](http://neemserra.com/the-asthma-struggle/) | |
-| 2015-12-28  | []() | | [Brown Girl <3 White Guy](http://neemserra.com/brown-girl-loves-white-guy/) | |
+| 2015-12-28  | [2015 Year in Review](http://blog.boochtek.com/2015/12/28/year-in-review-2015) | | [Brown Girl <3 White Guy](http://neemserra.com/brown-girl-loves-white-guy/) | |
 | 2016-01-04  | []() | | [Culturally Muslim](http://neemserra.com/culturally-muslim/) | |
 
 
