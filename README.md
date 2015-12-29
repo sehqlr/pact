@@ -8,7 +8,16 @@ There's no restriction on the topics of the blog posts. They don't even need to 
 
 We'll keep a list of blog entries here.
 
+
+## 2016
+
+| Deadline    | Craig | Neem | Pot |
+| ----------- | ----- | ---- | --- |
+| 2016-01-04  | []() | [Culturally Muslim](http://neemserra.com/culturally-muslim/) | |
+
+
 ## 2015
+
 
 | Deadline    | Craig | Bryan | Neem | Pot |
 | ----------- | ----- | ----- | ---- | --- |
@@ -47,7 +56,6 @@ We'll keep a list of blog entries here.
 | 2015-12-15  | [Encouragement](http://blog.boochtek.com/2015/12/15/encouragement) | | [2015 Asynchrony Performance Review](http://neemserra.com/2015-asynchrony-performance-review/) | |
 | 2015-12-22  | [Face Your Fears](http://blog.boochtek.com/2015/12/21/face-your-fears) | | [The Asthma Struggle](http://neemserra.com/the-asthma-struggle/) | |
 | 2015-12-28  | [2015 Year in Review](http://blog.boochtek.com/2015/12/28/year-in-review-2015) | | [Brown Girl <3 White Guy](http://neemserra.com/brown-girl-loves-white-guy/) | |
-| 2016-01-04  | []() | | [Culturally Muslim](http://neemserra.com/culturally-muslim/) | |
 
 
 ## 2014
