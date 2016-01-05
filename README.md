@@ -25,8 +25,8 @@ We'll keep a list of what we publish here.
 
 | Deadline    | Craig | Neem | Pot |
 | ----------- | ----- | ---- | --- |
-| 2016-01-11  |       |      |     |
-| 2016-01-04  | [Team Values](http://blog.boochtek.com/2016/01/04/team-values) | [Culturally Muslim](http://neemserra.com/culturally-muslim/) | |
+| 2016-01-11  |       |      | $40 |
+| 2016-01-04  | [Team Values](http://blog.boochtek.com/2016/01/04/team-values) | [Culturally Muslim](http://neemserra.com/culturally-muslim/) | $38 |
 
 
 ## 2015
@@ -51,24 +51,24 @@ We'll keep a list of what we publish here.
 | 2015-06-22  | [Not Quite Callbacks](http://blog.boochtek.com/2015/06/22/not-quite-callbacks) | |[The Dress](http://neemserra.com/the-dress)| |
 | 2015-06-29  | | |[Assumptions](http://neemserra.com/assumptions/)| |
 | 2015-07-06  | | |personal letters| |
-| 2015-07-13  | | |[Software Carpentry in Hawaii](http://neemserra.com/software-carpentry-in-hawaii/)| |
-| 2015-07-20  | [Resignation from SLUUG](http://www.sluug.org/pipermail/steercom/2015-July/009777.html) (username/password: discuss/freely) | |[Roy Clay Sr. Web Development and Entrepreneurship](http://neemserra.com/roy-clay-sr-web-development-and-entrepreneurship/)| |
-| 2015-08-31  | [Potential F5 Vulnerability](http://blog.boochtek.com/2015/08/31/potential-f5-vulnerability) | |[What to Wear](http://neemserra.com/what-to-wear/)| |
-| 2015-09-08  | [Website Checklist](http://blog.boochtek.com/2015/09/08/website-checklist) | |[Two Different Worlds](http://neemserra.com/two-different-worlds/) | |
-| 2015-09-14  | [This Agile Life episode 99](http://www.thisagilelife.com/99/) | |[After September 11](http://neemserra.com/after-september-11/)| |
-| 2015-09-21  | [I Made a Mistake](http://blog.craigbuchek.com/2015/09/mistake) | | [The upside of blogging](http://neemserra.com/the-upside-of-blogging/) | |
-| 2015-09-28  | [The Problem With Estimates](http://blog.boochtek.com/2015/09/28/no-estimates) | | [Strangeloop 2015](http://neemserra.com/strangeloop-2015/) | |
-| 2015-10-05  | [Losing Weight](http://blog.craigbuchek.com/2015/10/losing-weight) | | [Meeting people at conferences](http://neemserra.com/meeting-people-at-conferences/) | |
-| 2015-10-12  | [Ruby Preserves](http://tinyurl.com/ruby-preserves-stl) presentation at STL Ruby | | [The nerdiest jewelry](http://neemserra.com/the-nerdiest-jewelry/) | |
-| 2015-10-19  | [Relationship Goals](http://blog.craigbuchek.com/2015/10/relationship-goals) | | [The Dark Side of Conferences](http://neemserra.com/the-dark-side-of-conferences/) | |
-| 2015-11-02  | [Impromptu Retrospective](http://blog.boochtek.com/2015/11/02/impromptu-retrospective) | | [Teaching the elderly tech skills] (http://neemserra.com/teaching-the-elderly-tech-skills/) | |
-| 2015-11-09  | [Happiness Retrospective](http://blog.boochtek.com/2015/11/09/happiness-retrospective) | | [Follow up to: Teaching the elderly tech skills](http://neemserra.com/follow-up-to-teaching-the-elderly-tech-skills/) | |
-| 2015-11-24  | [Show and Tell](http://blog.boochtek.com/2015/11/24/show-and-tell) | | [CTO of the United States](http://neemserra.com/the-cto-of-the-united-states/) | |
-| 2015-11-30  | [This Agile Life episode 103](http://www.thisagilelife.com/103/) | | [The Non-Native Guide to Navigating Devon Avenue](http://neemserra.com/non-native-guide-to-navigating-devon-avenue/) | |
-| 2015-12-07  | [The Ultimate Optimization](http://blog.boochtek.com/2015/12/06/ultimate-optimization) | | [Year Books](http://neemserra.com/year-books/) | |
-| 2015-12-15  | [Encouragement](http://blog.boochtek.com/2015/12/15/encouragement) | | [2015 Asynchrony Performance Review](http://neemserra.com/2015-asynchrony-performance-review/) | |
-| 2015-12-22  | [Face Your Fears](http://blog.boochtek.com/2015/12/21/face-your-fears) | | [The Asthma Struggle](http://neemserra.com/the-asthma-struggle/) | |
-| 2015-12-28  | [2015 Year in Review](http://blog.boochtek.com/2015/12/28/year-in-review-2015) | | [Brown Girl <3 White Guy](http://neemserra.com/brown-girl-loves-white-guy/) | |
+| 2015-07-13  | | |[Software Carpentry in Hawaii](http://neemserra.com/software-carpentry-in-hawaii/)| $2 |
+| 2015-07-20  | [Resignation from SLUUG](http://www.sluug.org/pipermail/steercom/2015-July/009777.html) (username/password: discuss/freely) | |[Roy Clay Sr. Web Development and Entrepreneurship](http://neemserra.com/roy-clay-sr-web-development-and-entrepreneurship/)| $4 |
+| 2015-08-31  | [Potential F5 Vulnerability](http://blog.boochtek.com/2015/08/31/potential-f5-vulnerability) | |[What to Wear](http://neemserra.com/what-to-wear/)| $6 |
+| 2015-09-08  | [Website Checklist](http://blog.boochtek.com/2015/09/08/website-checklist) | |[Two Different Worlds](http://neemserra.com/two-different-worlds/) | $8 |
+| 2015-09-14  | [This Agile Life episode 99](http://www.thisagilelife.com/99/) | |[After September 11](http://neemserra.com/after-september-11/)| $10 |
+| 2015-09-21  | [I Made a Mistake](http://blog.craigbuchek.com/2015/09/mistake) | | [The upside of blogging](http://neemserra.com/the-upside-of-blogging/) | $12 |
+| 2015-09-28  | [The Problem With Estimates](http://blog.boochtek.com/2015/09/28/no-estimates) | | [Strangeloop 2015](http://neemserra.com/strangeloop-2015/) | $14 |
+| 2015-10-05  | [Losing Weight](http://blog.craigbuchek.com/2015/10/losing-weight) | | [Meeting people at conferences](http://neemserra.com/meeting-people-at-conferences/) | $16 |
+| 2015-10-12  | [Ruby Preserves](http://tinyurl.com/ruby-preserves-stl) presentation at STL Ruby | | [The nerdiest jewelry](http://neemserra.com/the-nerdiest-jewelry/) | $18 |
+| 2015-10-19  | [Relationship Goals](http://blog.craigbuchek.com/2015/10/relationship-goals) | | [The Dark Side of Conferences](http://neemserra.com/the-dark-side-of-conferences/) | $20 |
+| 2015-11-02  | [Impromptu Retrospective](http://blog.boochtek.com/2015/11/02/impromptu-retrospective) | | [Teaching the elderly tech skills] (http://neemserra.com/teaching-the-elderly-tech-skills/) | $22 |
+| 2015-11-09  | [Happiness Retrospective](http://blog.boochtek.com/2015/11/09/happiness-retrospective) | | [Follow up to: Teaching the elderly tech skills](http://neemserra.com/follow-up-to-teaching-the-elderly-tech-skills/) | $24 |
+| 2015-11-24  | [Show and Tell](http://blog.boochtek.com/2015/11/24/show-and-tell) | | [CTO of the United States](http://neemserra.com/the-cto-of-the-united-states/) | $26 |
+| 2015-11-30  | [This Agile Life episode 103](http://www.thisagilelife.com/103/) | | [The Non-Native Guide to Navigating Devon Avenue](http://neemserra.com/non-native-guide-to-navigating-devon-avenue/) | $28 |
+| 2015-12-07  | [The Ultimate Optimization](http://blog.boochtek.com/2015/12/06/ultimate-optimization) | | [Year Books](http://neemserra.com/year-books/) | $30 |
+| 2015-12-15  | [Encouragement](http://blog.boochtek.com/2015/12/15/encouragement) | | [2015 Asynchrony Performance Review](http://neemserra.com/2015-asynchrony-performance-review/) | $32 |
+| 2015-12-22  | [Face Your Fears](http://blog.boochtek.com/2015/12/21/face-your-fears) | | [The Asthma Struggle](http://neemserra.com/the-asthma-struggle/) | $34 |
+| 2015-12-28  | [2015 Year in Review](http://blog.boochtek.com/2015/12/28/year-in-review-2015) | | [Brown Girl <3 White Guy](http://neemserra.com/brown-girl-loves-white-guy/) | $36 |
 
 
 ## 2014
