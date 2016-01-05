@@ -2,11 +2,23 @@
 
 This repo is to record our successes and failures in our blogging pact.
 
-We've decided to put $1 into a pot every week. When someone doesn't blog, the other person gets the pot. The deadline is 11:59 every Monday night. (Occasionally, we'll extend the deadline by a day or 2 if everyone agrees.) A pull request must be submitted by that time.
+We've decided to put $1 into a pot every week.
+When someone doesn't blog, the other person gets the pot.
+The deadline is 11:59 every Monday night.
+(Occasionally, we'll extend the deadline by a day or 2 if everyone agrees.)
+A pull request must be submitted by the deadline.
 
-There's no restriction on the topics of the blog posts. They don't even need to always be written to the same blog. (You might want to have a personal blog and a business or technical blog.) The only restriction is that the blog entry be at least 200 words long. A 30-minute podcast episode will also be acceptable. Blog entries and podcasts must be published publically.
+We've decided that it's not strictly blogging that we want to encourage.
+Any of the following alternatives are acceptable:
 
-We'll keep a list of blog entries here.
+* An article, on a blog or elsewhere, minimum 200 words
+* A podcast episode, running at least 40 minutes
+* A list of at least 10 commits to Open Source projects
+
+There's no restriction on topics.
+Personal, technical, and business topics are all fair game.
+Whatever the work, it must be published publicly.
+We'll keep a list of what we publish here.
 
 
 ## 2016
