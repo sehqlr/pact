@@ -13,7 +13,8 @@ We'll keep a list of blog entries here.
 
 | Deadline    | Craig | Neem | Pot |
 | ----------- | ----- | ---- | --- |
-| 2016-01-04  | []() | [Culturally Muslim](http://neemserra.com/culturally-muslim/) | |
+| 2016-01-11  |       |      |     |
+| 2016-01-04  | [Team Values](http://blog.boochtek.com/2016/01/04/team-values) | [Culturally Muslim](http://neemserra.com/culturally-muslim/) | |
 
 
 ## 2015
