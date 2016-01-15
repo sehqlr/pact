@@ -4,7 +4,7 @@ This repo is to record our successes and failures in our blogging pact.
 
 We've decided to put $1 into a pot every week.
 When someone doesn't blog, the other person gets the pot.
-The deadline is 11:59 every Monday night.
+The deadline is 11:59 every Tuesday night.
 (Occasionally, we'll extend the deadline by a day or 2 if everyone agrees.)
 A pull request must be submitted by the deadline.
 
@@ -25,7 +25,7 @@ We'll keep a list of what we publish here.
 
 | Deadline    | Craig | Neem | Pot |
 | ----------- | ----- | ---- | --- |
-| 2016-01-18  |       |      | $42 |
+| 2016-01-19  |       |      | $42 |
 | 2016-01-11  | [My 2015](http://blog.craigbuchek.com/2016/01/review-2015) | [2015 in Review](http://neemserra.com/2015-in-review/) | $40 |
 | 2016-01-04  | [Team Values](http://blog.boochtek.com/2016/01/04/team-values) | [Culturally Muslim](http://neemserra.com/culturally-muslim/) | $38 |
 
