@@ -26,7 +26,7 @@ We'll keep a list of what we publish here.
 | Deadline    | Craig | Neem | Pot |
 | ----------- | ----- | ---- | --- |
 | 2016-02-16  |       |      | $48 |
-| 2016-02-09  |       |      | $46 |
+| 2016-02-10  | [My First Open Space](http://blog.boochtek.com/2016/02/10/first-open-space) | [Three years in tech](http://neemserra.com/three-years-in-tech/) | $46 |
 | 2016-02-02  | [This Agile Life episode 105](http://www.thisagilelife.com/105/) | [http://neemserra.com/experiences-of-a-former-hijabi/](http://neemserra.com/experiences-of-a-former-hijabi/) | $44 |
 | 2016-01-26  | (none) | (none) | $44 |
 | 2016-01-19  | [Resolutions for 2016](http://blog.boochtek.com/2016/01/19/resolutions-2016) |      | $42 |
