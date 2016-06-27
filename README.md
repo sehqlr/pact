@@ -4,7 +4,7 @@ This repo is to record our successes and failures in our blogging pact.
 
 We've decided to put $1 into a pot every week.
 When someone doesn't blog, the other person gets the pot.
-The deadline is 11:59 every Tuesday night.
+The deadline is 11:59 every Wednesday night.
 (Occasionally, we'll extend the deadline by a day or 2 if everyone agrees.)
 A pull request must be submitted by the deadline.
 
