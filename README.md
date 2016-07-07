@@ -25,7 +25,7 @@ We'll keep a list of what we publish here.
 
 | Deadline    | Craig | Neem | Pot |
 | ----------- | ----- | ---- | --- |
-| 2016-06-29  |       |      | $0 |
+| 2016-07-06  | [You Don't Have to Be Right](http://blog.boochtek.com/2016/07/06/you-dont-have-to-be-right) | [Pre-talk annoyances and how that’s strengthening my talk](http://neemserra.com/pre-talk-annoyances-and-how-thats-strengthening-my-talk/) | $2 |
 
 
 
