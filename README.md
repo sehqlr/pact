@@ -25,6 +25,7 @@ We'll keep a list of what we publish here.
 
 | Deadline    | Craig | Neem | Pot |
 | ----------- | ----- | ---- | --- |
+| 2016-07-20  | [This Agile Life Episode 113](http://www.thisagilelife.com/113/) | []() | $6 |
 | 2016-07-13  | [Agile Glossary](https://github.com/boochtek/effective_agile/blob/master/Glossary.md) | []() | $4 |
 | 2016-07-06  | [You Don't Have to Be Right](http://blog.boochtek.com/2016/07/06/you-dont-have-to-be-right) | [Pre-talk annoyances and how that’s strengthening my talk](http://neemserra.com/pre-talk-annoyances-and-how-thats-strengthening-my-talk/) | $2 |
 
