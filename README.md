@@ -20,6 +20,11 @@ Personal, technical, and business topics are all fair game.
 Whatever the work, it must be published publicly.
 We'll keep a list of what we publish here.
 
+## 2020
+
+| Deadline   | Craig | Sam | Pot |
+| ---------- | ----- | --- | --- |
+| 2020-01-22 |       | [Wikis as Multigraphs of Text](https://samhatfield.me/2020/01/21/wikis-as-multigraphs-of-text/) | $1 |
 
 ## 2016
 
