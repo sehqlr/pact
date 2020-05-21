@@ -22,9 +22,13 @@ We'll keep a list of what we publish here.
 
 ## 2020
 
+We had to have a reset during 2020 because Sam's blog lost a bunch of data :(
+
 | Deadline   | Craig | Sam | Pot |
 | ---------- | ----- | --- | --- |
-| 2020-01-22 |       | [Wikis as Multigraphs of Text](https://samhatfield.me/2020/01/21/wikis-as-multigraphs-of-text/) | $1 |
+| 2020-05-20 | []() | [Game Review in Screenshots: Stellaris](https://samhatfield.me/2020/05/20/game-review-in-screenshots-stellaris/) | $6 |
+| 2020-05-13 | []() | [Series: RPG Campaign Settings](https://samhatfield.me/2020/05/13/series-rpg-campaign-settings/) | $4 |
+| 2020-05-06 | []() | [The Story Behind "sehqlr"](https://samhatfield.me/2020/05/06/the-story-behind-sehqlr/) | $2 |
 
 ## 2016
 
